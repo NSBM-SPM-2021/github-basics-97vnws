@@ -1,5 +1,9 @@
 # library management system
 
+## netify
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b68712ed-0b05-4ffa-aaff-119b0ec1bbf3/deploy-status)](https://app.netlify.com/sites/boring-einstein-2c0a48/deploys)
+
 ## Home page
 
 ![lib](https://user-images.githubusercontent.com/73695972/133475124-cfa80d94-084f-468c-909b-c1397bd5e85f.PNG)
@@ -19,3 +23,4 @@
 ## Trello board
 
 https://trello.com/b/Y1U6dX2o/lms-project
+
